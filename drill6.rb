@@ -71,6 +71,3 @@ while true do
     exception           # exceptionメソッドの呼び出し
   end
 end
-
-
-#1 コードが実行される順番がわからない
