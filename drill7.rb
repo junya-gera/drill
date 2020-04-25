@@ -16,4 +16,3 @@ hash.each do |key,value|
 end
 
 # option + ¥ でバックスラッシュ
-
