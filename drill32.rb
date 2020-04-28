@@ -11,3 +11,5 @@ def fizzbuzz(number)
 end
 
 fizzbuzz(15)
+
+# (1..number).each do |num| でもできる
