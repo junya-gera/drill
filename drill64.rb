@@ -11,3 +11,11 @@ def left2(str)
 end
 
 left2('java')
+
+def extra_end(str)
+  char_num = str.length
+  extra = str.slice(char_num-2,2)
+  puts extra*3
+end
+
+extra_end('Hello')
