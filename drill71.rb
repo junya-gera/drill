@@ -8,3 +8,5 @@ end
 
 
 cat_dog("catcat")
+
+# scan 一致する文字列を抽出して配列にする
